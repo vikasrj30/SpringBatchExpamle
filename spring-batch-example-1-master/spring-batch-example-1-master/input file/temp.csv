@@ -1,0 +1,2 @@
+id,api,request,response,method
+1,http://localhost:8080/v1/validateUser,{"userEmail":"vj@ivl.com"^"userPassword":"Pwd@123"},{"status_code":200^"userDetail":[{"userEmail":"vj@ivl.com"^"userName":"Vikas"^"userId":2}]^"message":"Success"},post
